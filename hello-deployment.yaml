@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: hello
-          image: sharplee7/hello:1.0
+          image: decaypark/hello:1.0
           #resources:
           #  limits:
           #    memory: "128Mi"
